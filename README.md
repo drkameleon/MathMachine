@@ -22,5 +22,5 @@ COMPILATION / INSTALL INSTRUCTIONS
 - Install the GMP MP BigNum Library [http://gmplib.org/]
 - Open the terminal :
 
-	$ make
-	$ ./mathmachine xxxxxx (xxxxxx = script filename)
+     $ make
+	 $ ./mathmachine xxxxxx (xxxxxx = script filename)
