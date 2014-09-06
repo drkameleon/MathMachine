@@ -1,0 +1,5 @@
+put "pre-using...";
+
+use "examples/test36.mml"
+
+put "running";
